@@ -1,3 +1,21 @@
+# Data used - kaggle
+ice cream rating from (https://www.kaggle.com/datasets/tysonpo/ice-cream-dataset)
+
+# Programming language used
+
+Next.js 13
+Playwright
+
+# Description
+
+This is a ice cream rating website, which youcan find the best ice cream brands in the world. The website has rating system that rate the brand and only brands with a 4.5- start rating or higher will be displayed. Also there are so fun fact and history of ice cream are be able to disover.
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
