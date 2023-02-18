@@ -25,7 +25,9 @@ export default function Home() {
       
 
       <main className={styles.container} id="colouring">
+        
         <div className={styles.ice_cream_img}>
+        
         </div>
 
         <div className={styles.h_title} id="title">STAY COOL & EAT ICE CREAM!</div>
